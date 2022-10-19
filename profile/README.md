@@ -9,3 +9,6 @@
 📚 - **What?** Tools such as validation, documentation generator, content management system and cli tools.
 
 👥 - Helping is free! Don't be afraid to ask what to do.
+
+🙏 - Lets create an awesome [community](https://github.com/orgs/jetvil/discussions).
+Where you can ask questions, suggest projects and check [what to do](https://github.com/jetvil/community/blob/main/WHAT-TO-DO.md).
